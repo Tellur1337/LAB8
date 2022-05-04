@@ -15,7 +15,7 @@ if i%2==1:
 s.insert(i, nl)
 
 print(list(s))
-
+#master
 
 
 
